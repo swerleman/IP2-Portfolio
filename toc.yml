@@ -44,6 +44,7 @@ project:
         - file: Content/PySim/7_arbeid.ipynb
         - file: Content/PySim/8_thermostaat.ipynb
         - file: Content/PySim/9_entropie.ipynb
+        - file: Content/PySim/10_voltaische_cel.ipynb
 
     - title: Labs
       file: Content/Labs/uitleg.md
@@ -52,7 +53,6 @@ project:
       - title: Soortelijke warmte
         children:
           - file: Content/Labs/cwater.ipynb
-          - file: Content/Labs/Verdamping.ipynb        
           - file: Content/Labs/Warmtecapaciteit.ipynb
           - file: Content/Labs/koelbuis.ipynb
 
